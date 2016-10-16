@@ -207,6 +207,16 @@ header ul a:active {
   background-color:#f0f0f0;
 }
 
+header img {
+  margin: 0 auto;
+  text-align: center;
+}
+
+header p {
+  margin: 0 auto;
+  text-align: center;
+}
+
 strong {
   color:#222;
   font-weight:700;
