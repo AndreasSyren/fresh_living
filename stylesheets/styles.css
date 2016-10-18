@@ -215,7 +215,10 @@ header img {
 header p {
   margin: 0 auto;
   text-align: center;
-  padding-bottom: 1em;
+}
+
+header p:last-child {
+   padding-bottom: 1em;
 }
 
 strong {
