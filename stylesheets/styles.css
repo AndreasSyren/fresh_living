@@ -212,6 +212,13 @@ header img {
   text-align: center;
 }
 
+header img .st0 {
+    fill:#B2B2B2;
+}
+header img .st1 {
+    fill:#3C3C3B;
+}
+
 header p {
   margin: 0 auto;
   text-align: center;
@@ -336,9 +343,4 @@ footer {
     color:#444;
   }
 }
-	.st0 {
-    fill:#B2B2B2;
-}
-	.st1 {
-    fill:#3C3C3B;
-}
+	
